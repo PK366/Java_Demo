@@ -7,9 +7,13 @@ public class JavaEx {
 		int y = 25;
 		int z = x + y;
 		int a = z * 5;
+		boolean isRaining = true ;
+		boolean isTodayMonday = false;
 		System.out.println(fullName);
 		System.out.println(a);
 		System.out.println(z);
+		System.out.println("Is Raining?: " + isRaining)';
+		System.out.println("Is today Monday? :" + isTodayMonday);
 	}
 }
 
