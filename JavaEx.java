@@ -12,7 +12,7 @@ public class JavaEx {
 		System.out.println(fullName);
 		System.out.println(a);
 		System.out.println(z);
-		System.out.println("Is Raining?: " + isRaining)';
+		System.out.println("Is Raining?: " + isRaining);
 		System.out.println("Is today Monday? :" + isTodayMonday);
 	}
 }
