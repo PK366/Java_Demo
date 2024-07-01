@@ -15,6 +15,7 @@ public class JavaEx {
 		System.out.println(z);
 		System.out.println("Is Raining?: " + isRaining);
 		System.out.println("Is today Monday? :" + isTodayMonday);
+		System.out.println("This project is commited successfully");
 	}
 }
 
